@@ -1,0 +1,6 @@
+JOB 3. Requirement 1: Social Network Analysis  Thursday 10 PM
+		i. Using Direct/Indirect Approach to get influencer score
+		ii. Come up with a pipeline or implement yourself!
+		#Deliverables: Learn how to do that and get ready with a demo, which is good to go into the environment we are building
+    
+    
