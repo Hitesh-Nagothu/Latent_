@@ -1,0 +1,4 @@
+JOB 5. Learn Django (creating light websites), where the platform input would be like: Saturday 10 PM
+Search: Pandemic elections 2020, date_from, date_to, country etc etc.
+the above search goes as an url request to solr instance and fetches the output (as we have done in Project 3). This output should be shown in a representative format on the UI page
+Disclaimer: Requirement 3 of the course, can be fulfilled once we have above ready as a prototype
