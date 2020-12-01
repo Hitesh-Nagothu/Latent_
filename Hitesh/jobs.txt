@@ -1,0 +1,12 @@
+
+Completed: JOB 1. Submission of tweets    Sunday 6 PM
+Completed: JOB 2. Run analysis for sanity check on collected tweets: Monday 10 AM
+                      if adequate:
+                        Move on!
+                      else:
+                        collect more :(
+
+In_Progress: JOB 4. Requirement 2: Topic Analysis   Thursday 10 PM`
+              i. Use basic approach like: Perform topic analysis using open source  	 libraries(b/w covid and non-covid tweets)
+              ii. Try to get info on covid data for that particular country based on the POI's tweet timeframe
+              #Deliverables: Learn how to do that and get ready with a demo, which is good to go into the environment we are building
