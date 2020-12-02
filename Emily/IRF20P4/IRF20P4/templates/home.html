@@ -1,0 +1,33 @@
+<!-- This file contains the html code for the home page of the IRF20P4 website.-->
+
+<!-- NOTE: User CANNOT return to home page after selcting one of the other pages unless they manually change the url.-->
+
+{% extends 'base.html' %}
+{% block content %}
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+form {text-align: center;}
+input {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1>Welcome</h1>
+
+<!-- Creates a button to take you to the search page of the IRF20P4 website.-->
+<p>Clicking the "Search" button will take you to the search page.</p>
+<form action="http://127.0.0.1:8000/search/">
+    <input type="submit" value="Search" />
+</form>
+
+<!-- Creates a button to take you to the analytics page of the IRF20P4 website.-->
+<p>Clicking the "Analytics" button will take you to the analytics page.</p>
+<form action="http://127.0.0.1:8000/analytics">
+    <input type="submit" value="Analytics" />
+</form>
+
+</body>
+{% endblock %}
