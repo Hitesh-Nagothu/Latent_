@@ -1,0 +1,13 @@
+<!-- Include base.html -->
+{% extends 'base.html' %}
+{% block content %}
+<h1>Fetch User Tweets</h1>
+
+<!-- Creates a button to take you to the search page of the IRF20P4 website.-->
+<p>Clicking the "Search" button will take you to the search page.</p>
+<form action="http://127.0.0.1:8000/search/">
+    <input type="submit" value="Search" />
+</form>
+
+<p>Graphs and stuff will go here</p>
+{% endblock %}
