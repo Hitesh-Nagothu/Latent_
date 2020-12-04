@@ -1,0 +1,10 @@
+{!% if searchbutton == "Search" %} 
+<h4> You searched: {{ user_search }}</h4>
+{% endif %}
+
+    # Check if variable is tuple 
+    # using type() 
+    res = type(query) is tuple
+      
+    # printing result 
+    print("Is variable tuple ? : " + str(res))
