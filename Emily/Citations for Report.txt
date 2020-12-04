@@ -2,6 +2,7 @@
 GeeksForGeeks, NaveenAroraSoftware Developer at, et al. “Render HTML Forms (GET &amp; POST) in Django.” GeeksforGeeks, 19 Nov. 2020, www.geeksforgeeks.org/render-html-forms-get-post-in-django/. 
 How to Create a Form in Django Using Plain HTML, 2018, www.learningaboutelectronics.com/Articles/How-to-create-a-form-in-Django-using-plain-HTML.php. 
 “Langdetect.” PyPI, pypi.org/project/langdetect/. 
+“Python Django Web Framework - Full Course for Beginners.” YouTube, FreeCodeCamp.org, 2 Jan. 2019, youtu.be/F5mRW0jo-U4. 
 Rockikz, Abdou. “How to Translate Text in Python.” Python Code, 25 May 2020, www.thepythoncode.com/article/translate-text-in-python. 
 Seibert, Chase. “Redirect Console Output to a Django HttpResponse.” Chase Seibert Blog, Chase Seibert Blog, 6 Aug. 2010, chase-seibert.github.io/blog/2010/08/06/redirect-console-output-to-a-django-httpresponse.html. 
 Ssut. “Add Handling for When TKK Is Already Rendered by Guy-Dipietro-Bose · Pull Request #78 · Ssut/Py-Googletrans.” GitHub, 2018, github.com/ssut/py-googletrans/pull/78. 
