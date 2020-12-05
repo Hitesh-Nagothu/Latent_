@@ -24,6 +24,7 @@ from pages.views import *
 urlpatterns = [
     path('', home_view, name='home'),
     path('search/', search_view, name='search'),
+    path('results/', results_view, name='results'),
     path('analytics/', analytics_view, name='analytics'),
     
     # Sonal's views
