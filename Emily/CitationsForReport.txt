@@ -1,8 +1,12 @@
+Ashutosh, Apoorv, et al. “Python Json.loads Shows ValueError: Extra Data.” Stack Overflow, 1 Mar. 1963, stackoverflow.com/questions/21058935/python-json-loads-shows-valueerror-extra-data. 
 “Documentation.” Django, 2005, docs.djangoproject.com/en/3.1/ref/request-response/. 
 GeeksForGeeks, NaveenAroraSoftware Developer at, et al. “Render HTML Forms (GET &amp; POST) in Django.” GeeksforGeeks, 19 Nov. 2020, www.geeksforgeeks.org/render-html-forms-get-post-in-django/. 
 How to Create a Form in Django Using Plain HTML, 2018, www.learningaboutelectronics.com/Articles/How-to-create-a-form-in-Django-using-plain-HTML.php. 
+“How to Paginate Django Query Results.” Pretty Printed, 8 July 2020, youtu.be/5FKL_voZuFw. 
 “Langdetect.” PyPI, pypi.org/project/langdetect/. 
+maverickmaverick                    4911 silver badge66 bronze badges, and Saket PatelSaket Patel                    30322 silver badges1212 bronze badges. “Display JSON as Table in Django.” Stack Overflow, 1 Dec. 1966, stackoverflow.com/questions/46661319/display-json-as-table-in-django. 
 “Python Django Web Framework - Full Course for Beginners.” YouTube, FreeCodeCamp.org, 2 Jan. 2019, youtu.be/F5mRW0jo-U4. 
+“Return JSON Data in Django.” YouTube, Pretty Printed, 21 July 2019, youtu.be/BNeXIbxbGs8. 
 Rockikz, Abdou. “How to Translate Text in Python.” Python Code, 25 May 2020, www.thepythoncode.com/article/translate-text-in-python. 
 Seibert, Chase. “Redirect Console Output to a Django HttpResponse.” Chase Seibert Blog, Chase Seibert Blog, 6 Aug. 2010, chase-seibert.github.io/blog/2010/08/06/redirect-console-output-to-a-django-httpresponse.html. 
 Ssut. “Add Handling for When TKK Is Already Rendered by Guy-Dipietro-Bose · Pull Request #78 · Ssut/Py-Googletrans.” GitHub, 2018, github.com/ssut/py-googletrans/pull/78. 
