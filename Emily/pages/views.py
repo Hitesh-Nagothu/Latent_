@@ -30,18 +30,21 @@ def home_view(request, *args, **kwargs):
 #    and sends user query to imported function.
 def search_view(request, *args, **kwargs):
     users_query = request.POST
-    filename = main(users_query.getlist('user_search'))
-    # Have to reroute print to website, current code not working.
-    """
-    f = open("http://127.0.0.1:8000/search/", "w", encoding='utf-8')
-    f.write(filename.read())
-    f.close()
-    """
+    main(users_query.getlist('user_search'))
     return render(request, "search.html", {})
+
+#--- Prints the query results to website
+def results_view(request):
+    f = open('query_results.json', 'r', encoding='utf-8')
+    results = json.loads(json.dumps([f.read()]))
+    return JsonResponse({'results': results})
 
 #--- Creates analytics page view by using analytics.html.
 def analytics_view(request, *args, **kwargs):
     return render(request, "analytics.html", {})
+    
+
+    
     
 # Sonal's API's
 def index(request):
