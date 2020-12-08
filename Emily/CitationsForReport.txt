@@ -10,3 +10,4 @@ maverickmaverick                    4911 silver badge66 bronze badges, and Saket
 Rockikz, Abdou. “How to Translate Text in Python.” Python Code, 25 May 2020, www.thepythoncode.com/article/translate-text-in-python. 
 Seibert, Chase. “Redirect Console Output to a Django HttpResponse.” Chase Seibert Blog, Chase Seibert Blog, 6 Aug. 2010, chase-seibert.github.io/blog/2010/08/06/redirect-console-output-to-a-django-httpresponse.html. 
 Ssut. “Add Handling for When TKK Is Already Rendered by Guy-Dipietro-Bose · Pull Request #78 · Ssut/Py-Googletrans.” GitHub, 2018, github.com/ssut/py-googletrans/pull/78. 
+Varun. “Python Pandas : How to Display Full Dataframe I.e. Print All Rows &amp; Columns without Truncation.” Thispointer.com, 28 Sept. 2019, thispointer.com/python-pandas-how-to-display-full-dataframe-i-e-print-all-rows-columns-without-truncation/. 
