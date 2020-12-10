@@ -1,7 +1,7 @@
 from GoogleNews import GoogleNews
 from datetime import datetime
 import pandas as pd
-import sys
+#import sys
 
 def retrieve_news(query, created_at, country):
     # Lists of POI names sorted by POI location
