@@ -226,6 +226,21 @@ def display_tweets(data, country_name, poi_name):
                                              'backgroundColor': 'rgb(50, 50, 50)',
                                              'color': 'white',
                                              },
+                                   style_cell_conditional=[
+                                     {'if': {'column_id': 'name'},
+                                      'width': '10%'},
+                                     {'if': {'column_id': 'full_text'},
+                                      'width': '40%'},
+                                     {'if': {'column_id': 'sentiment'},
+                                      'width': '5%'},
+                                     {'if': {'column_id': 'topic_name'},
+                                      'width': '5%'},
+                                     {'if': {'column_id': 'topic_type'},
+                                      'width': '5%'},
+                                     {'if': {'column_id': 'topic_hashtags'},
+                                      'width': '5%'},
+
+                                 ],
                                
 
                                  #style_as_list_view=True,
