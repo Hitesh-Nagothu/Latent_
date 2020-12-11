@@ -10,6 +10,7 @@ How to Create a Form in Django Using Plain HTML, 2018, www.learningaboutelectron
 “How to Paginate Django Query Results.” Pretty Printed, 8 July 2020, youtu.be/5FKL_voZuFw. 
 JavaaaaJavaaaa                    3, et al. “Going from Twitter Date to Python Datetime Date.” Stack Overflow, 1 Nov. 1960, stackoverflow.com/questions/7703865/going-from-twitter-date-to-python-datetime-date. 
 “Langdetect.” PyPI, pypi.org/project/langdetect/. 
+Lungu, Constantin. “Exploring Twitter Data Using Python. Part III: Analyzing the Data.” Medium, Analytics Vidhya, 5 June 2020, medium.com/analytics-vidhya/exploring-twitter-data-using-python-part-iii-analyzing-the-data-e883aa340dff. 
 maverickmaverick                    4911 silver badge66 bronze badges, and Saket PatelSaket Patel                    30322 silver badges1212 bronze badges. “Display JSON as Table in Django.” Stack Overflow, 1 Dec. 1966, stackoverflow.com/questions/46661319/display-json-as-table-in-django. 
 “Python Django Web Framework - Full Course for Beginners.” YouTube, FreeCodeCamp.org, 2 Jan. 2019, youtu.be/F5mRW0jo-U4. 
 “Return JSON Data in Django.” YouTube, Pretty Printed, 21 July 2019, youtu.be/BNeXIbxbGs8. 
